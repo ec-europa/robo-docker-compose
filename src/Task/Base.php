@@ -1,8 +1,8 @@
 <?php
 
-namespace Droath\RoboDockerCompose\Task;
+namespace EC\OpenEuropa\RoboDockerCompose\Task;
 
-use Droath\RoboDockerCompose\ExecutableArguments;
+use EC\OpenEuropa\RoboDockerCompose\ExecutableArguments;
 use Robo\Common\ExecOneCommand;
 use Robo\Exception\TaskException;
 use Robo\Task\BaseTask;

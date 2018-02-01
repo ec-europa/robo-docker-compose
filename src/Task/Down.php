@@ -1,6 +1,6 @@
 <?php
 
-namespace Droath\RoboDockerCompose\Task;
+namespace EC\OpenEuropa\RoboDockerCompose\Task;
 
 use Robo\Exception\TaskException;
 

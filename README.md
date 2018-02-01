@@ -15,7 +15,7 @@ composer require --dev droath/robo-docker-compose
 ```php
 <?php
 
-    use \Droath\RoboDockerCompose\Task\loadTasks;
+    use \EC\OpenEuropa\RoboDockerCompose\Task\loadTasks;
 
     // Command equivalent: `docker-composer up -d -remove-orphans`
     $this->taskDockerComposeUp()

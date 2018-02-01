@@ -1,8 +1,8 @@
 <?php
 
-namespace Droath\RoboDockerCompose\Task;
+namespace EC\OpenEuropa\RoboDockerCompose\Task;
 
-use Droath\RoboDockerCompose\DockerServicesTrait;
+use EC\OpenEuropa\RoboDockerCompose\DockerServicesTrait;
 use Robo\Exception\TaskException;
 
 /**

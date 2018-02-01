@@ -1,6 +1,6 @@
 <?php
 
-namespace Droath\RoboDockerCompose;
+namespace EC\OpenEuropa\RoboDockerCompose;
 
 /**
  * Define docker services trait.
